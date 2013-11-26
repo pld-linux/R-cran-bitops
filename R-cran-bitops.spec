@@ -2,12 +2,12 @@
 %define		modulename	bitops
 Summary:	Functions for Bitwise operations
 Name:		R-cran-%{modulename}
-Version:	1.0r4.1
+Version:	1.0r6
 Release:	1
 License:	GPL v2+
 Group:		Applications/Math
 Source0:	http://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
-# Source0-md5:	5b434b3e4e3957e247e420afba515e35
+# Source0-md5:	fba16485a51b1ccd354abde5816b6bdd
 BuildRequires:	R >= 2.8.1
 BuildRequires:	texlive-fonts-cmsuper
 BuildRequires:	texlive-latex-ae
